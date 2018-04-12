@@ -1,0 +1,12 @@
+D:\Slack\SlackApiAccess\SlackApiAccess\bin\Debug\SlackApiAccess.exe.config
+D:\Slack\SlackApiAccess\SlackApiAccess\bin\Debug\SlackApiAccess.exe
+D:\Slack\SlackApiAccess\SlackApiAccess\bin\Debug\SlackApiAccess.pdb
+D:\Slack\SlackApiAccess\SlackApiAccess\bin\Debug\Newtonsoft.Json.dll
+D:\Slack\SlackApiAccess\SlackApiAccess\obj\Debug\SlackApiAccess.exe
+D:\Slack\SlackApiAccess\SlackApiAccess\obj\Debug\SlackApiAccess.pdb
+D:\Slack\SlackApiAccess\SlackApiAccess\bin\Debug\itextsharp.dll
+D:\Slack\SlackApiAccess\SlackApiAccess\bin\Debug\itextsharp.xml
+D:\Slack\SlackApiAccess\SlackApiAccess\obj\Debug\SlackApiAccess.csprojResolveAssemblyReference.cache
+D:\GBS-Boomi\SLacks\Source Code\SlackApiAccess\SlackApiAccess\bin\Debug\SlackApiAccess.exe.config
+D:\GBS-Boomi\SLacks\Source Code\SlackApiAccess\SlackApiAccess\obj\Debug\SlackApiAccess.exe
+D:\GBS-Boomi\SLacks\Source Code\SlackApiAccess\SlackApiAccess\obj\Debug\SlackApiAccess.pdb
